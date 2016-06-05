@@ -1,0 +1,20 @@
+{
+  "name": "node_todo",
+  "version": "1.0.0",
+  "description": "A Todo Node Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Arora",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
